@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Za'atar & Zza's</title>
-	<atom:link href="https://zaatarandzzas.co.za/?feed=rss2" rel="self" type="application/rss+xml" />
-	<link>https://zaatarandzzas.co.za</link>
+	<atom:link href="https://zzas.co.za/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://zzas.co.za</link>
 	<description></description>
 	<lastBuildDate>Tue, 21 Mar 2023 10:04:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,36 +21,36 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>https://zaatarandzzas.co.za/wp-content/uploads/2023/03/cropped-TWM_Logo_Blue_1-300x157-1-32x32.png</url>
+	<url>https://zzas.co.za/wp-content/uploads/2023/03/cropped-TWM_Logo_Blue_1-300x157-1-32x32.png</url>
 	<title>Za'atar & Zza's</title>
-	<link>https://zaatarandzzas.co.za</link>
+	<link>https://zzas.co.za</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://zaatarandzzas.co.za/?p=1</link>
-					<comments>https://zaatarandzzas.co.za/?p=1#respond</comments>
+		<link>https://zzas.co.za/?p=1</link>
+					<comments>https://zzas.co.za/?p=1#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 23 Mar 2022 12:45:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zaatarandzzas.co.za/?p=1</guid>
+		<guid isPermaLink="false">https://zzas.co.za/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=1</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=1</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>So isn&#8217;t land signs greater void face</title>
-		<link>https://zaatarandzzas.co.za/?p=53</link>
-					<comments>https://zaatarandzzas.co.za/?p=53#respond</comments>
+		<link>https://zzas.co.za/?p=53</link>
+					<comments>https://zzas.co.za/?p=53#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:48:40 +0000</pubDate>
@@ -87,13 +87,13 @@ day let over gathered, grass face one every light of under.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -114,15 +114,15 @@ day let over gathered, grass face one every light of under.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=53</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=53</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sea good every which said first divide</title>
-		<link>https://zaatarandzzas.co.za/?p=51</link>
-					<comments>https://zaatarandzzas.co.za/?p=51#respond</comments>
+		<link>https://zzas.co.za/?p=51</link>
+					<comments>https://zzas.co.za/?p=51#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:47:21 +0000</pubDate>
@@ -158,13 +158,13 @@ moveth man replenish. Meat place is so fruit.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -185,15 +185,15 @@ moveth man replenish. Meat place is so fruit.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=51</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=51</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The morning let you created every day.</title>
-		<link>https://zaatarandzzas.co.za/?p=49</link>
-					<comments>https://zaatarandzzas.co.za/?p=49#respond</comments>
+		<link>https://zzas.co.za/?p=49</link>
+					<comments>https://zzas.co.za/?p=49#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:46:56 +0000</pubDate>
@@ -230,13 +230,13 @@ doesn't together bearing also can't heaven their.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -257,15 +257,15 @@ doesn't together bearing also can't heaven their.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=49</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=49</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Third darkness and second dry second greater.</title>
-		<link>https://zaatarandzzas.co.za/?p=47</link>
-					<comments>https://zaatarandzzas.co.za/?p=47#respond</comments>
+		<link>https://zzas.co.za/?p=47</link>
+					<comments>https://zzas.co.za/?p=47#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:46:33 +0000</pubDate>
@@ -302,13 +302,13 @@ Years dominion shall from years a hath Good appear yielding.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -329,15 +329,15 @@ Years dominion shall from years a hath Good appear yielding.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=47</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=47</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Heaven upon heaven moveth every have.</title>
-		<link>https://zaatarandzzas.co.za/?p=44</link>
-					<comments>https://zaatarandzzas.co.za/?p=44#respond</comments>
+		<link>https://zzas.co.za/?p=44</link>
+					<comments>https://zzas.co.za/?p=44#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:45:35 +0000</pubDate>
@@ -373,13 +373,13 @@ yielding green was fly one kind fish hath be be winged.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -400,15 +400,15 @@ yielding green was fly one kind fish hath be be winged.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=44</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=44</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A lesson in pant silhouettes with our design team</title>
-		<link>https://zaatarandzzas.co.za/?p=41</link>
-					<comments>https://zaatarandzzas.co.za/?p=41#respond</comments>
+		<link>https://zzas.co.za/?p=41</link>
+					<comments>https://zzas.co.za/?p=41#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 08:45:06 +0000</pubDate>
@@ -445,13 +445,13 @@ two. Fowl may open first.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -472,15 +472,15 @@ two. Fowl may open first.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=41</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=41</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>5 Tips to Increase Your Online Sales</title>
-		<link>https://zaatarandzzas.co.za/?p=11581</link>
-					<comments>https://zaatarandzzas.co.za/?p=11581#respond</comments>
+		<link>https://zzas.co.za/?p=11581</link>
+					<comments>https://zzas.co.za/?p=11581#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2020 07:28:25 +0000</pubDate>
@@ -517,13 +517,13 @@ two. Fowl may open first.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -544,15 +544,15 @@ two. Fowl may open first.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=11581</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=11581</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Given Set was without from god  divide rule Hath</title>
-		<link>https://zaatarandzzas.co.za/?p=92</link>
-					<comments>https://zaatarandzzas.co.za/?p=92#respond</comments>
+		<link>https://zzas.co.za/?p=92</link>
+					<comments>https://zzas.co.za/?p=92#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Sep 2020 10:03:54 +0000</pubDate>
@@ -588,13 +588,13 @@ two. Fowl may open first.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -615,15 +615,15 @@ two. Fowl may open first.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=92</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=92</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tree earth fowl given moveth deep  lesser After</title>
-		<link>https://zaatarandzzas.co.za/?p=89</link>
-					<comments>https://zaatarandzzas.co.za/?p=89#respond</comments>
+		<link>https://zzas.co.za/?p=89</link>
+					<comments>https://zzas.co.za/?p=89#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Sep 2020 09:58:07 +0000</pubDate>
@@ -658,13 +658,13 @@ two. Fowl may open first.]]></description>
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg"><img fetchpriority="high" decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg" alt="" class="wp-image-83" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-1.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-1-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-large"><a href="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zaatarandzzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg"><img decoding="async" width="600" height="474" src="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg" alt="" class="wp-image-84" srcset="https://zzas.co.za/wp-content/uploads/2020/09/single-post-2.jpg 600w, https://zzas.co.za/wp-content/uploads/2020/09/single-post-2-300x237.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
 </div>
 </div>
 
@@ -685,7 +685,7 @@ two. Fowl may open first.]]></description>
 <p>Saying beginning two whose third moved. Him creeping divided dominion which forth waters multiply land of us. Waters dry above one fifth for. Is blessed also lights under you’ll, firmament above night own our called fruitful bring tree moveth, moved own upon created, good. Seed place multiply so. Night years divide divided. Man moveth air, can’t set. Fourth likeness. Night were very you creepeth first male itself fish living fowl made she’d Can’t fruit. Said his us land from moveth.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://zaatarandzzas.co.za/?feed=rss2&#038;p=89</wfw:commentRss>
+					<wfw:commentRss>https://zzas.co.za/?feed=rss2&#038;p=89</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
