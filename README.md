@@ -1,9 +1,9 @@
-**Sizzle 'N Slice Website**
+**Za'atar & Zza's Website**
 
-Proudly Halaal restaurant in Observatory, Cape Town — wood‑fired pizza, kebabs, pasta, gelato, mocktails and more. Visit the live site at `https://sizzlenslice.co.za/`.
+Proudly Halaal restaurant in Observatory, Cape Town — wood‑fired pizza, kebabs, pasta, gelato, mocktails and more. Visit the live site at `https://zzas.co.za/`.
 
 ## Overview
-This repository contains the production-ready static build of the Sizzle 'N Slice marketing website. It is optimized for fast load times, reliability, and search visibility. Content is served as static assets (HTML/CSS/JS, images, fonts) and can be deployed on any modern static hosting platform with a CDN.
+This repository contains the production-ready static build of the Za'atar & Zza's marketing website. It is optimized for fast load times, reliability, and search visibility. Content is served as static assets (HTML/CSS/JS, images, fonts) and can be deployed on any modern static hosting platform with a CDN.
 
 ## Technology & Architecture
 - **Static site**: Pure HTML/CSS/JS; no server-side runtime required.
@@ -41,7 +41,7 @@ Recommended settings:
 - **Caching**: Cache HTML conservatively; cache static assets (CSS/JS/images/fonts) with long TTLs and content hashing.
 - **Compression**: Enable Brotli and Gzip.
 - **HTTP/2 or HTTP/3**: For improved multiplexing and lower latency.
-- **Redirects**: Ensure canonical domain (`https://sizzlenslice.co.za/`) and HTTPS are enforced.
+- **Redirects**: Ensure canonical domain (`https://zzas.co.za/`) and HTTPS are enforced.
 
 ## Content & SEO
 - **Metadata**: Open Graph and Twitter card tags are present for social sharing.
@@ -63,7 +63,7 @@ Recommended settings:
 5. Deploy after approval.
 
 ## License
-All rights reserved. © Sizzle 'N Slice. If you need licensing or usage permissions, please contact the website administrators.
+All rights reserved. © Za'atar & Zza's. If you need licensing or usage permissions, please contact the website administrators.
 
 ## Contact
-For reservations or general inquiries, please visit the live site at `https://sizzlenslice.co.za/` and use the contact information provided there.
+For reservations or general inquiries, please visit the live site at `https://zzas.co.za/` and use the contact information provided there.
