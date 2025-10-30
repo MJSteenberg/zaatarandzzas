@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://zzas.co.za</homePageLink>
+		<homePageLink>https://sizzlenslice.co.za</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://zzas.co.za/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://zzas.co.za/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://zzas.co.za/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://zzas.co.za/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://zzas.co.za/index.php?rest_route=/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://sizzlenslice.co.za/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://sizzlenslice.co.za/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://sizzlenslice.co.za/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://sizzlenslice.co.za/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://sizzlenslice.co.za/index.php?rest_route=/" />
 			</apis>
 	</service>
 </rsd>
