@@ -580,9 +580,28 @@ var FOOBOX = window.FOOBOX = {
 }</style><style type="text/css">undefined</style>
 <style>
 html { scroll-behavior: smooth; }
-#story, #menu, #order, #merch, #gift, #contact { scroll-margin-top: 140px; }
+#story, #menu, #order, #merch, #gift, #contact, #reservations { scroll-margin-top: 140px; }
 @media (max-width: 767px) {
-  #story, #menu, #order, #merch, #gift, #contact { scroll-margin-top: 220px; }
+  #story, #menu, #order, #merch, #gift, #contact, #reservations { scroll-margin-top: 220px; }
+}
+.reservations-cta {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+}
+.reservations-cta .cta-button {
+  background-color: #bda168;
+  color: #ffffff;
+  padding: 12px 32px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.reservations-cta .cta-button:hover,
+.reservations-cta .cta-button:focus {
+  background-color: #a4894f;
+  transform: translateY(-2px);
 }
 </style>
 
@@ -656,6 +675,7 @@ if (!window.fbq || !window.fbq.loaded) {
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11839"><a href="#menu">Menus</a></li>
 <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12014"><a href="#order">Orders</a></li> -->
 <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12126 active"><a href="#merch">Merchandise</a></li> -->
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-zzas-bookings"><a href="#reservations">Bookings</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11844"><a href="#gift">Gift Vouchers</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11845"><a href="#contact">Contact</a></li>
 </ul></nav>
@@ -1473,13 +1493,19 @@ Reference: Use your name</p>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-fa15a37 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementskit-parallax-multi-container" data-id="fa15a37" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+				<section id="reservations" class="elementor-section elementor-top-section elementor-element elementor-element-fa15a37 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementskit-parallax-multi-container" data-id="fa15a37" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d780276" data-id="d780276" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-af04a73 elementor-widget elementor-widget-razzi-heading" data-id="af04a73" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="razzi-heading.default">
 				<div class="elementor-widget-container">
-					<div class="razzi-heading-wrapper"><h2 style="color:#bda168;""> Reservations</h2><p style="color:#fff;">Call us on (021) 754 1470/1 to book a table or place your Call & Collect order.</p></div>				</div>
+					<div class="razzi-heading-wrapper">
+						<h2 style="color:#bda168;"> Reservations</h2>
+						<p style="color:#fff;">Use the Dineplan link below to book a table with us or Call us on (021) 754 1470/1 to place your Call & Collect order.</p>
+						<div class="reservations-cta">
+							<a class="cta-button" href="https://www.dineplan.com/widgetframe/G62H1ck4?" target="_blank" rel="noopener">Book via Dineplan</a>
+						</div>
+					</div>				</div>
 				</div>
 					</div>
 		</div>
@@ -1625,6 +1651,7 @@ var sbiajaxurl = "";
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11839"><a href="#menu">Menus</a></li>
 <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12014"><a href="#order">Orders</a></li> -->
 <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12126 active"><a href="#merch">Merchandise</a></li> -->
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-zzas-bookings"><a href="#reservations">Bookings</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11844"><a href="#gift">Gift Vouchers</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11845"><a href="#contact">Contact</a></li>
 </ul>                    </nav>
